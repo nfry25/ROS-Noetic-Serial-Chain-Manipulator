@@ -1,0 +1,17 @@
+# Generated Files
+/build/
+/devel/
+/install/
+/logs/
+
+# Catkin Workspace Files
+/.catkin_workspace
+
+# CMake Files
+/src/CMakeLists.txt
+
+# VS Code Files
+.vscode/
+
+# Python Cache
+__pycache__/
